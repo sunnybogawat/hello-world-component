@@ -15,7 +15,12 @@ module.exports = {
     ]
   },
   output: {
-    filename: "bundle.js",
     path: __dirname + "/dist",
+    filename: "hello.js",
+    library: 'hello',
+    libraryTarget: 'umd',
+    externals: {
+        react: 'react',
+    }
   },
 };

@@ -1,8 +1,8 @@
 {
-  "name": "hello-world",
-  "version": "1.0.0",
+  "name": "hello-world-001",
+  "version": "1.0.3",
   "description": "A react component for testing npm distribution.",
-  "main": "index.js",
+  "main": "dist/hello.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "server": "webpack-dev-server --progress --colors --hot",
