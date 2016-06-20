@@ -1,6 +1,6 @@
 {
   "name": "hello-world-006",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "A react component for testing npm distribution.",
   "main": "dist/hello.js",
   "scripts": {
