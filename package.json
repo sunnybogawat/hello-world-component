@@ -1,6 +1,6 @@
 {
-  "name": "hello-world-001",
-  "version": "1.0.6",
+  "name": "hello-world-006",
+  "version": "1.0.7",
   "description": "A react component for testing npm distribution.",
   "main": "dist/hello.js",
   "scripts": {
@@ -26,6 +26,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/wisesmile/hello-world.git"
+    "url": "https://github.com/sunnybogawat/hello-world-component.git"
   }
 }
