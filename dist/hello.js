@@ -108,7 +108,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	      return _react2.default.createElement(
 	        'h1',
 	        null,
-	        'Hello, installed from NPM'
+	        'Hello, World one zero five'
 	      );
 	    }
 	  }]);
